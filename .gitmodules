@@ -1,0 +1,6 @@
+[submodule "vendors/sprockets"]
+	path = vendors/sprockets
+	url = git://github.com/sstephenson/sprockets.git
+[submodule "vendors/unittest_js"]
+	path = vendors/unittest_js
+	url = git://github.com/tobie/unittest_js.git
